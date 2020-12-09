@@ -17,11 +17,11 @@ public class App {
         myPanel.add(label_list.get(0));
 
         label_list.get(1).setIcon(new ImageIcon(imgURL));
-        label_list.get(1).setBounds(65,100,64,64);
+        label_list.get(1).setBounds(57,100,64,64);
         myPanel.add(label_list.get(1));
 
         label_list.get(2).setIcon(new ImageIcon(imgURL));
-        label_list.get(2).setBounds(128,100,64,64);
+        label_list.get(2).setBounds(115,100,64,64);
         myPanel.add(label_list.get(2));
     }
     //显示窗体方法
